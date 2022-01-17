@@ -1,1 +1,72 @@
-1. Add login screen
+Flutter Story App UI Concept - Speed Code
+    https://www.youtube.com/watch?v=5KbiU-93-yU
+
+
+Build Instagram Clone with Flutter & Firebase | 
+FlutterFire Tutorial
+ https://www.youtube.com/watch?v=BBccK1zTgxw    
+
+Create Responsive Flutter Apps with Minimal Effort
+    https://www.youtube.com/watch?v=bXwK1Lrfihw
+
+Flutter Instagram Stories Tutorial
+    https://www.youtube.com/watch?v=ilX5hnH8XoI    
+
+
+Story Button Using Flutter
+    https://www.youtube.com/watch?v=RZmCX9rU39o  
+
+
+Flutter Tutorial - Flutter Story App (StoryView Plugin)
+    https://www.youtube.com/watch?v=3f9oqIvxNc0   
+
+
+How to add Stories to Flutter app 
+like we have on Instagram, WhatsApp or Snapchat?   
+    https://www.youtube.com/watch?v=caCReLevAso
+
+
+Flutter UI - Instagram Clone App - Speed Code
+    https://www.youtube.com/watch?v=fJnmr22-Y7A    
+
+From Idea To App Using Flutter Task Automation App
+    https://www.youtube.com/watch?v=Ssivxgwa6B0  
+
+
+One Day Builds: Instagram Clone Using Flutter
+    https://www.youtube.com/watch?v=E2uEfOls4e4   
+
+
+Text Tutorial
+
+Flutter Bloc : A Complete Guide
+
+    https://dhruvnakum.xyz/flutter-bloc-a-complete-guide
+
+
+Flutter BLoC (v8): How to Fetch Data From an API? - 2022 Guide
+
+    https://dhruvnakum.xyz/flutter-bloc-v8-how-to-fetch-data-from-an-api-2022-guide
+
+Stories App
+
+Flutter: WhatsApp Clone Status View | Story View Feature Tutorial - 
+https://www.youtube.com/watch?v=qDqRbai9VmU
+
+How to add Stories to Flutter app like we have on Instagram, WhatsApp or Snapchat? - 
+https://www.youtube.com/watch?v=caCReLevAso
+
+Flutter: Building a WhatsApp Clone from scratch | UI | Material Design 
+https://www.youtube.com/watch?v=2Tyrofn6zPg
+
+The fastest way to build Your Whatsapp Status Story with Flutter
+https://promise-amadi.medium.com/fastest-way-to-build-your-whatsapp-status-story-with-flutter-838fcee973d3
+
+Fastest way to build Your Whatsapp Status Story with Flutter
+https://promise.hashnode.dev/fastest-way-to-build-your-whatsapp-status-story-with-flutter-838fcee973d3
+
+Dribble - https://dribbble.com/tags/story_app
+
+
+
+
